@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">My Trawlbens Test</string>
+    <string name="title_movies">Movies</string>
+    <string name="title_tv_show">Tv Show</string>
+    <string name="terjadi_kesalahan_coba_lagi_nanti">Terjadi kesalahan coba lagi nanti!</string>
+    <string name="baseUrlImage">https://image.tmdb.org/t/p/w500%s</string>
+    <string name="baseUrlVideo">https://www.youtube.com/watch?v=%s</string>
+    <string name="now_playing">Now Playing</string>
+    <string name="favorite_movie">Favorite Movies</string>
+    <string name="info_add_favorite">%s ditambahkan ke daftar favorite.</string>
+    <string name="info_remove_favorite">%s dihapus dari daftar favorite.</string>
+    <string name="popular">Popular</string>
+    <string name="top_rated">Top Rated</string>
+    <string name="upcoming">Upcoming</string>
+    <string name="overview">Overview</string>
+    <string name="reviews">Reviews</string>
+    <string name="cari_disini">Cari disini…</string>
+    <string name="tidak_ada_data">Tidak ada data</string>
+</resources>
